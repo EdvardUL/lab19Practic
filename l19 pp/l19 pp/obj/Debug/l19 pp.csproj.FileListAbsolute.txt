@@ -1,0 +1,21 @@
+D:\l19 pp\l19 pp\bin\Debug\l19 pp.exe.config
+D:\l19 pp\l19 pp\bin\Debug\l19 pp.exe
+D:\l19 pp\l19 pp\bin\Debug\l19 pp.pdb
+D:\l19 pp\l19 pp\obj\Debug\l19 pp.csproj.AssemblyReference.cache
+D:\l19 pp\l19 pp\obj\Debug\l19 pp.csproj.CoreCompileInputs.cache
+D:\l19 pp\l19 pp\obj\Debug\l19 pp.exe
+D:\l19 pp\l19 pp\obj\Debug\l19 pp.pdb
+D:\Visual проекты\Практика лабы\l19 pp\l19 pp\bin\Debug\l19 pp.exe.config
+D:\Visual проекты\Практика лабы\l19 pp\l19 pp\bin\Debug\l19 pp.exe
+D:\Visual проекты\Практика лабы\l19 pp\l19 pp\bin\Debug\l19 pp.pdb
+D:\Visual проекты\Практика лабы\l19 pp\l19 pp\obj\Debug\l19 pp.csprojAssemblyReference.cache
+D:\Visual проекты\Практика лабы\l19 pp\l19 pp\obj\Debug\l19 pp.csproj.CoreCompileInputs.cache
+D:\Visual проекты\Практика лабы\l19 pp\l19 pp\obj\Debug\l19 pp.exe
+D:\Visual проекты\Практика лабы\l19 pp\l19 pp\obj\Debug\l19 pp.pdb
+C:\Users\User\Desktop\l19 pp\l19 pp\bin\Debug\l19 pp.exe.config
+C:\Users\User\Desktop\l19 pp\l19 pp\bin\Debug\l19 pp.exe
+C:\Users\User\Desktop\l19 pp\l19 pp\bin\Debug\l19 pp.pdb
+C:\Users\User\Desktop\l19 pp\l19 pp\obj\Debug\l19 pp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\l19 pp\l19 pp\obj\Debug\l19 pp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\l19 pp\l19 pp\obj\Debug\l19 pp.exe
+C:\Users\User\Desktop\l19 pp\l19 pp\obj\Debug\l19 pp.pdb
